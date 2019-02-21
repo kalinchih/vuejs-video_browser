@@ -1,4 +1,4 @@
-# vue-video-browser
+# vuejs-video_browser
 
 Learn Vue from https://www.udemy.com/vue-js-course
 
